@@ -22,7 +22,7 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="PDA CONTROL"
+        android:text="PDAa CONTROL"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -79,7 +79,7 @@
             android:gravity="start|center_vertical"
             android:paddingStart="16dp"
             android:paddingEnd="16dp"
-            android:text="Control de mercancías"
+            android:text="CONTROL de mercancías"
             android:textColor="#000000" />
 
         <!-- Tercer botón -->

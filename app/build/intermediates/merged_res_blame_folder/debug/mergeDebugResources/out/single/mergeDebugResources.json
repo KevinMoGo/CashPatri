@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\layout_anadir_productos.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\layout\\anadir_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\drawable_inputs.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\drawable\\inputs.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\layout_configuracion.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\layout\\configuracion.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\layout_inicio.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\layout\\inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\drawable_cashpatri_logo.png.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\drawable\\cashpatri_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\drawable_botones_blancos_rectangulares.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\drawable\\botones_blancos_rectangulares.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\drawable_botones_naranjas_rectangulares.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\drawable\\botones_naranjas_rectangulares.xml"
+    },
+    {
+        "merged": "com.example.cashpatri.app-debug-31:/layout_inicio.xml.flat",
+        "source": "com.example.cashpatri.app-main-33:/layout/inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\layout_inventario1.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\layout\\inventario1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\drawable_botones_config.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\drawable\\botones_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\layout_ftp.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\layout\\ftp.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\layout_item_producto.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\layout\\item_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\layout_listado_productos.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\layout\\listado_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\layout_controldemercancias.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\layout\\controldemercancias.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-debug-31:\\drawable_boton_config.xml.flat",
+        "source": "C:\\Users\\mafla\\.gradle\\daemon\\8.4\\com.example.cashpatri.app-main-33:\\drawable\\boton_config.xml"
+    }
+]

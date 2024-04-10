@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EFEFEF">
+
+    <!-- Topbar -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/color2"
+        app:title="Inventario"
+        app:titleTextColor="#000000"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- LinearLayout para centrar vertical y horizontalmente -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/topbar">
+
+        <!-- Texto "Inventario Vacío" -->
+        <TextView
+            android:id="@+id/textViewEmptyInventory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Inventario Vacío"
+            android:textColor="#838383"
+            android:textSize="24sp" />
+
+        <!-- Botón "Agregar Ítem" -->
+        <Button
+
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/buttonAddItem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Agregar Ítem"
+            android:layout_marginTop="16dp"
+            android:onClick="agregarItem"
+            app:layout_constraintStart_toStartOf="@id/textViewEmptyInventory" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
